@@ -1,5 +1,3 @@
-## 📄 README.md — *Alura Space*
-
 
 # 🌌 Alura Space
 
